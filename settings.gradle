@@ -1,0 +1,2 @@
+rootProject.name='QPOI4Excel'
+include ':app'
